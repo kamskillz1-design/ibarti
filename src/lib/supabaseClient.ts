@@ -4,8 +4,8 @@ import { createClient } from "@supabase/supabase-js";
 // that needs Supabase access imports this client through a service in
 // src/services — never directly. See CONVENTIONS.md.
 
-const supabaseUrl = import.meta.env.VITE_SUPABASE_URL;
-const supabaseAnonKey = import.meta.env.VITE_SUPABASE_ANON_KEY;
+const supabaseUrl = (import.meta as any).env.VITE_SUPABASE_URL;
+const supabaseKey = (import.meta as any).env.VITE_SUPABASE_ANON_KEY;
 
 if (!supabaseUrl || !supabaseAnonKey) {
   throw new Error(
