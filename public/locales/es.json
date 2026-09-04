@@ -1,1 +1,18 @@
-
+{
+  "nav": {
+    "explore": "Explorar",
+    "myListings": "Mis anuncios",
+    "trades": "Intercambios",
+    "profile": "Perfil"
+  },
+  "home": {
+    "heroTitle": "Intercambia cualquier cosa, en cualquier lugar",
+    "newListing": "Nuevo anuncio",
+    "nearYou": "Cerca de ti"
+  },
+  "listing": {
+    "iHave": "Tengo",
+    "iWant": "Quiero",
+    "proposeTrade": "Proponer intercambio"
+  }
+}
