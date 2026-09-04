@@ -1,1 +1,18 @@
-
+{
+  "nav": {
+    "explore": "Explore",
+    "myListings": "My listings",
+    "trades": "Trades",
+    "profile": "Profile"
+  },
+  "home": {
+    "heroTitle": "Trade anything, anywhere",
+    "newListing": "New listing",
+    "nearYou": "Near you"
+  },
+  "listing": {
+    "iHave": "I have",
+    "iWant": "I want",
+    "proposeTrade": "Propose trade"
+  }
+}
