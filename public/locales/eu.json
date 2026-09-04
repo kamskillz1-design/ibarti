@@ -1,1 +1,18 @@
-
+{
+  "nav": {
+    "explore": "Arakatu",
+    "myListings": "Nire iragarkiak",
+    "trades": "Truke",
+    "profile": "Profila"
+  },
+  "home": {
+    "heroTitle": "Trukatu edozer, edonon",
+    "newListing": "Iragarki berria",
+    "nearYou": "Zure inguruan"
+  },
+  "listing": {
+    "iHave": "Badut",
+    "iWant": "Nahi dut",
+    "proposeTrade": "Trukea proposatu"
+  }
+}
