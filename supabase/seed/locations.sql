@@ -1,1 +1,7 @@
-
+-- This file is a placeholder. Populate it by converting the open-source
+-- Country-State-City dataset (https://github.com/dr5hn/countries-states-cities-database,
+-- MIT licensed) into INSERT statements for countries, states_provinces, and
+-- cities, matching the schema in supabase/migrations/0000_locations.sql.
+--
+-- Run this once against a fresh database, before supabase/seed/languages.sql
+-- (which references the Basque Country's states_provinces row).
